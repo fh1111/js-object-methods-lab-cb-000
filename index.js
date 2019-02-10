@@ -9,5 +9,9 @@ class President {
   }
 
 
+  veto() {
+    return "NO!";
+  }
 
-}  
+
+}
